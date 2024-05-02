@@ -12,7 +12,7 @@ I want to emphasize that I do not condone cheating under any circumstances. My i
 ## Download
 1. Download in releases or "<> Code" > "Download ZIP"
 2. Extract the ZIP folder
-3. Open checker.bat to view details
+3. Open checker.bat to view details of your HWID
 
 ## Commands
 ### !recheck
