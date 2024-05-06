@@ -2,9 +2,7 @@
 Check your hardware details (hwid, bios, smbios, etc)
 This was mainly made for Blitz Solutions
 
-https://discord.gg/pFJKhjrcrn
-https://discord.gg/pFJKhjrcrn
-https://discord.gg/pFJKhjrcrn
+
 
 ## DISCLAIMER
 I want to emphasize that I do not condone cheating under any circumstances. My intention is solely educational, aimed at promoting legitimate learning and understanding. It's important to clarify that while discussing HWID spoofers, I do not endorse or encourage their usage. However, it's worth noting that certain features may complement HWID spoofers effectively.
