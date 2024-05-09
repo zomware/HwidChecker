@@ -1,6 +1,6 @@
 # HwidChecker
 Check your hardware details (hwid, bios, smbios, etc)
-This was mainly made for Blitz Solutions
+Created for spoofers.
 
 
 
